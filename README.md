@@ -3,7 +3,7 @@
 <!-- Project Logo -->
 
 <div align="center">
-    <img src="logo/LogistikLogo.svg" alt="Logo" width="110"; height="110">
+    <img src="logo/LogistikLogo.svg" alt="Logo" width="200"; height="200">
   <p align="center">
    Logistik ASC 2025
   </p>
