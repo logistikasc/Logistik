@@ -3,7 +3,7 @@
 <!-- Project Logo -->
 
 <div align="center">
-    <img src="logo/LogistikLogo.svg" alt="Logo" width="210"; height="210">
+    <img src="logo/LogistikLogo.svg" alt="Logo" width="220"; height="220">
 </div>
 
 ## Introduction
