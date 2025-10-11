@@ -28,12 +28,28 @@
   riwayat_penggunaan = {
     kondisi_alat = "Baik (Minor Scratches)"; 
     total_penggunaan_tercatat = 45; # Nilai integer
-    
-    terakhir_digunakan = {
-      tanggal = "2025-03-20";
-      aktivitas = "Pemasangan Top-Rope Anchor";
-    };
-    
+    terakhir_digunakan = [
+      # Penggunaan 1: Paling Terbaru
+      {
+        tanggal = "2025-03-25";
+        aktivitas = "Climbing Lead (Racking on Harness)";
+        lokasi = "Tebing Parang";
+      }
+      # Penggunaan 2
+      {
+        tanggal = "2025-03-22";
+        aktivitas = "Rescue Training (Haul System)";
+        lokasi = "Area Simulasi SAR";
+      }
+      # Penggunaan 3
+      {
+        tanggal = "2025-03-20";
+        aktivitas = "Pemasangan Top-Rope Anchor";
+        lokasi = "Tebing Batu Gajah";
+      }
+      # ... dan seterusnya
+    ];
+
     # List (Array) String
     sering_digunakan_untuk = [
       "Climbing (Belay Station)"
