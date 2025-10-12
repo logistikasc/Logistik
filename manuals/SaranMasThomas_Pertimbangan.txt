@@ -1,0 +1,12 @@
+Pertimbangan:
+
+1. Akan ada kegiatan apa, lokasi, durasi, pasca kegiatan untuk kejadian khusus pada alat sampai masuk tahap inspeksi;
+2. Ada control terkait penggunaan alat. Alat untuk Latihan dan kegiatan di lapangan;
+3. Pembentukan kebijakan terkait dengan aturan pengambilan alat (Orientasi: Store Management, ketika opslat briefing dan mengambil alat, dilaporkan kepada logistic, kemudian dengan catatan alat diambil walaupun dengan penambahan kekurangan alat, kemudian di set dan steril pada ruang logistic;
+4. Penyusutan dari alat perlu dipertimbangkan. Terkait apa saja yang menjadi factor penyusutan alat, salah satunya pertimbangan terkait dengan control penggunaan alat;
+5. Untuk Pengkodean pada alat. Barcode pada alat;
+
+Untuk inspeksi.
+1. Alat2 lama, data usia, dll. perlu dicatat dan data alat baru beserta pertimbangan poin pertama dikembangkan;
+2. Untuk mempermudah ranah teknis inspeksi, dari poin pertimbangan 1 untuk kejadian khusus user(penerima alat) wajib memberi tanda pada alat yang mengalami kejadian khusus(jatuh dari ketinggian, retak, atau hal lain);
+3.  
